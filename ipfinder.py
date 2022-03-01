@@ -68,5 +68,3 @@ while True:
     print("not found!")
     time.sleep(2)
     os.system('cls')
-
-#ESTOU A 1 SEMANA VENDO TUDO QUE CONSIGO DE PYTHON E ACHEI UM LINGUAGEM SENSACIONAL :)
