@@ -1,2 +1,13 @@
-# ipfinder
-Simple ip locate in python!
+# IP LOCATE INFO
+
+## 🚀 Dependências : 
+
+
+```
+pip install requests
+```
+
+```
+pip install json
+```
+
