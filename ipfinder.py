@@ -44,7 +44,7 @@ while True:
 
 
   #AQUI ELE VERIFICA SE O IP REALMENTE FUNCIONA
-  #VENDO SE "city" DENTRO DO JSON API EXISTE :)
+  #VENDO SE "city" DENTRO DO JSON DA API EXISTE :)
   if "city" in asteck:
     os.system('cls')
     print("found!\n")
